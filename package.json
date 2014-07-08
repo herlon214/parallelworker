@@ -1,0 +1,15 @@
+{
+  "name": "ParallelWorker",
+  "version": "0.0.0",
+  "description": "Process some data on different workers",
+  "main": "app.js",
+  "dependencies": {
+    "cluster": "^0.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Herlon Aguiar <herlon214@gmail.com>",
+  "license": "ISC"
+}
